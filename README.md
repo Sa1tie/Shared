@@ -2,7 +2,7 @@
 ### IT Business Systems Analyst | Top Secret Clearance | MBA Candidate
 
 <a href="https://www.linkedin.com/in/roger-mcnulty-016776219">
-  <img src="linkedinprofile.png" width="220" align="left" hspace="25" vspace="10" alt="Roger McNulty LinkedIn">
+  <img src="profile.png" width="220" align="left" hspace="25" vspace="10" alt="Roger McNulty LinkedIn">
 </a>
 
 **Welcome to my professional portfolio.**
