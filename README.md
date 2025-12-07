@@ -20,7 +20,7 @@ Currently completing my **MBA in Project Management**, I focus on strategic IT p
 | Document | Description |
 | :--- | :--- |
 | **[📄 View My Resume](RogerMcNulty_BSA.pdf)** | A comprehensive overview of my experience in Systems Administration, Requirements Gathering, and Operational Leadership. |
-| **[📄 View My Portfolio](RogerMcNulty_BSA_CL.pdf)** | Selected work samples demonstrating business case analysis, process modeling, and strategic alignment capabilities. |
+| **[📄 View My Portfolio](Projects_Portfolio.pdf)** | Selected work samples demonstrating business case analysis, process modeling, and strategic alignment capabilities. |
 
 ---
 
